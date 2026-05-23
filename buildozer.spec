@@ -1,5 +1,5 @@
 [app]
-title = Video Tracker
+title = VideoTracker
 package.name = videotracker
 package.domain = org.example
 source.dir = .
